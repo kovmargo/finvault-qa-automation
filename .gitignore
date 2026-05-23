@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+
+# Node
+node_modules/
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
